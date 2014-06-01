@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/cucumber-core-1.1.6.jar" sourcepath="C:/Users/GHAZALA/.m2/repository/info/cukes/cucumber-core/1.1.6/cucumber-core-1.1.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/cucumber-java-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/cucumber-junit-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/cucumber-jvm-deps-1.0.3(1).jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/selenium-server-standalone-2.29.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspaceNew/TestBDDGrid/lib/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

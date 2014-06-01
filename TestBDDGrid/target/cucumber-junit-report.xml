@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="122.967013">
+<testcase classname="Landing Page Test" name="Testing Landing Page links to different pages._3" time="63.088158">
+<system-out><![CDATA[Given I am logged in........................................................passed
+When I click on pagelink home...............................................passed
+Then It should open homePage................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Landing Page Test" name="Testing Landing Page links to different pages._2" time="32.079416">
+<system-out><![CDATA[Given I am logged in........................................................passed
+When I click on pagelink contacts...........................................passed
+Then It should open contactPage.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Landing Page Test" name="Testing Landing Page links to different pages._1" time="27.799439">
+<system-out><![CDATA[Given I am logged in........................................................passed
+When I click on pagelink accounts...........................................passed
+Then It should open accountPage.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
